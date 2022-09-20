@@ -4,7 +4,7 @@ A simple websocket server forwarding chat messages received from a livestream ch
 It is made to be used in combination with Twitch Heatmap Chat (https://github.com/FDMX2/Twitch-Heatmap-Chat)
 
 ## How it works:
-Download the latest executable here ([https://github.com/FDMX2/MessageForwarder/releases](https://github.com/FDMX2/MessageForwarder/releases/latest)) and start it or run the main.py you find in the MsgForwarder folder (only if you have python 3.6 or higher installed).
+Download the latest executable here (https://github.com/FDMX2/MessageForwarder/releases/latest) and start it or run the main.py you find in the MsgForwarder folder (only if you have python 3.6 or higher installed).
 
 The server is now ready to serve messages from livestreams. You can connect via the default port 13254.
 
